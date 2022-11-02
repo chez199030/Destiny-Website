@@ -79,3 +79,18 @@ header {
 .phone-img img {
   width: 500px;
 }
+
+/* Section 6 */
+
+#sec-6 {
+  background: linear-gradient(rgba(22, 219, 147, 0.9), rgba(22, 219, 147, 0.9)),
+    url(/img/section-6-bg.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#sec-6 .circle-icon {
+  width: 95px;
+  height: 95px;
+}
