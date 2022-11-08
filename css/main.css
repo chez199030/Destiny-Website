@@ -100,3 +100,25 @@ header {
 #sec-8 .carousel-item img {
   width: 180px !important;
 }
+
+/* Section 9 */
+.pricing-item {
+  border-radius: 0.3rem;
+  overflow: hidden;
+  max-width: 340px;
+}
+
+.pricing-title {
+  background-color: var(--green-dark);
+}
+
+.prcing-price,
+.pricing-item ul li {
+  border-bottom: 1px solid rgba(255, 255, 255, 0.5);
+  padding: 0.9rem 0;
+}
+
+.pricing-item .btn:hover {
+  background-color: transparent !important;
+  color: #fff;
+}
